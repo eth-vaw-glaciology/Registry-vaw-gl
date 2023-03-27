@@ -1,0 +1,3 @@
+name = "TinyKernels"
+uuid = "f7cbc414-f748-44bf-86e6-e44e9a55e39d"
+repo = "git@github.com:utkinis/TinyKernels.jl.git"

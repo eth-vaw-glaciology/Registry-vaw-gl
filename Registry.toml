@@ -7,3 +7,4 @@ description = "VAW-GL package registry"
 4fed8954-9dc7-43ae-ad1d-8b0048040872 = { name = "WhereTheWaterFlowsSubglacially", path = "W/WhereTheWaterFlowsSubglacially" }
 d4a64349-7d63-4304-bc85-347e5f0acb8c = { name = "GlacioTeaching", path = "G/GlacioTeaching" }
 f6e1814d-c37d-4673-9f0b-038c7b842264 = { name = "GlacioTools", path = "G/GlacioTools" }
+f7cbc414-f748-44bf-86e6-e44e9a55e39d = { name = "TinyKernels", path = "T/TinyKernels" }
