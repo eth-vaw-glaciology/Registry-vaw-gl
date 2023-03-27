@@ -1,0 +1,6 @@
+name = "vaw-gl"
+uuid = "f322f877-6c1a-421f-91a5-c0bfc4c69729"
+repo = "git@github.com:eth-vaw-glaciology/Registry-vaw-gl.git"
+description = "VAW-GL package registry"
+
+[packages]
