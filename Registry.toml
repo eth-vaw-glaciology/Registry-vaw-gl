@@ -4,3 +4,4 @@ repo = "git@github.com:eth-vaw-glaciology/Registry-vaw-gl.git"
 description = "VAW-GL package registry"
 
 [packages]
+d4a64349-7d63-4304-bc85-347e5f0acb8c = { name = "GlacioTeaching", path = "G/GlacioTeaching" }
